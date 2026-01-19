@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "69662127e646ebfbe808ac72"
+  },
+  "nume": "Adrian Nacu",
+  "email": "admin@gmail.com",
+  "parola": "123456",
+  "facultate": "Drept și Științe Administrative",
+  "rol": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e181e0d1e2e1eb95d4a76"
+  },
+  "nume": "Andreea",
+  "email": "andreea@gmail.com",
+  "parola": "123456",
+  "facultate": "Economie, Administrație și Afaceri",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2e8ce4242d96194199c1"
+  },
+  "nume": "Andrei Moldovan",
+  "email": "andreimoldovan@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2eb3e4242d96194199c6"
+  },
+  "nume": "Elena Ionescu",
+  "email": "elenaionescu@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Drept și Științe Administrative",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2ed1e4242d96194199c9"
+  },
+  "nume": "Matei Suceveanu",
+  "email": "mateisuceveanu@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Economie, Administrație și Afaceri",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2efde4242d96194199cc"
+  },
+  "nume": "Daria Cozma",
+  "email": "dariacozma@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Drept și Științe Administrative",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2f1be4242d96194199cf"
+  },
+  "nume": "Alexandru Lupu",
+  "email": "alexandrulupu@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Economie, Administrație și Afaceri",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2f3ee4242d96194199d2"
+  },
+  "nume": "Ioana Avram",
+  "email": "ioanaavram@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Economie, Administrație și Afaceri",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2f69e4242d96194199d5"
+  },
+  "nume": "Cristian Rusu",
+  "email": "cristianrusu@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Drept și Științe Administrative",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2f95e4242d96194199ee"
+  },
+  "nume": "Bianca Marin",
+  "email": "biancamarin@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e31f4e4242d9619419a9f"
+  },
+  "nume": "Elena Bodnari",
+  "email": "elenabodnari@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Litere și Științe ale Comunicării",
+  "rol": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e320ee4242d9619419aa2"
+  },
+  "nume": "ASUS",
+  "email": "asus@gmail.ro",
+  "parola": "123456",
+  "facultate": "Drept și Științe Administrative",
+  "rol": "organizator",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3229e4242d9619419aa5"
+  },
+  "nume": "FIRESC",
+  "email": "firesc@gmail.com",
+  "parola": "123456",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "rol": "organizator",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3242e4242d9619419aa8"
+  },
+  "nume": "USV",
+  "email": "usv@gmail.ro",
+  "parola": "123456",
+  "facultate": "Economie, Administrație și Afaceri",
+  "rol": "organizator",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e32b5e4242d9619419ac1"
+  },
+  "nume": "Tudor Rusu",
+  "email": "tudorrusu@student.usv.ro",
+  "parola": "123456",
+  "facultate": "Litere și Științe ale Comunicării",
+  "rol": "student",
+  "__v": 0
+}]

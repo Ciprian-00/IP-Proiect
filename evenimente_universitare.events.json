@@ -1,0 +1,404 @@
+[{
+  "_id": {
+    "$oid": "696e0fadd9a553049126e5e4"
+  },
+  "title": "Foc de tabara",
+  "date": "2026-12-04",
+  "location": "Alpia Sucevei",
+  "description": "Aduceti-va rontaieli",
+  "facultate": "Economie",
+  "tip": "Social",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e175c0d1e2e1eb95d4957"
+  },
+  "title": "test",
+  "category": "Cultural",
+  "date": "1222-12-12",
+  "location": "Sala de Sport ",
+  "description": "awda",
+  "facultate": "Economie",
+  "tip": "Cultural",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e17ae0d1e2e1eb95d49fd"
+  },
+  "title": "awdaw",
+  "category": "Academic",
+  "date": "1111-11-11",
+  "location": "wad",
+  "description": "awda",
+  "facultate": "Informatică",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e1a462476fb0c8783f30c"
+  },
+  "title": "wadawda",
+  "category": "Academic",
+  "date": "1111-11-11",
+  "location": "awdaw",
+  "description": "awdawdad",
+  "facultate": "Economie",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e1bf12476fb0c8783f43c"
+  },
+  "title": "awda",
+  "category": "Academic",
+  "date": "0111-11-11",
+  "location": "dawdaw",
+  "description": "awda",
+  "facultate": "Economie",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e20adcdae047f91ad578e"
+  },
+  "title": "esfawse",
+  "category": "Academic",
+  "date": "0011-11-11",
+  "location": "ff",
+  "description": "awfaw",
+  "facultate": "Informatică",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e294fe4242d9619419516"
+  },
+  "title": "dawdawd",
+  "category": "Academic",
+  "date": "0001-11-11",
+  "location": "dawdaw",
+  "description": "awdawdad",
+  "facultate": "Informatică",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2989e4242d96194195d8"
+  },
+  "title": "wadawd",
+  "category": "Academic",
+  "date": "0001-11-11",
+  "location": "dawdaw",
+  "description": "dawdawdaw",
+  "facultate": "Informatică",
+  "tip": "Academic",
+  "status": "rejected",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2babe4242d96194196ec"
+  },
+  "title": "USV Sports Day",
+  "category": "Sportiv",
+  "date": "2026-01-03",
+  "location": "Sala de Sport ",
+  "description": "O zi plină de competiții sportive (fotbal, baschet, tenis de masă) între facultăți.",
+  "facultate": "Drept",
+  "tip": "Sportiv",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Elena Ionescu",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e33bfe4242d9619419c3c"
+      }
+    },
+    {
+      "studentNume": "Daria Cozma",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e3427e4242d9619419d42"
+      }
+    },
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 3,
+      "_id": {
+        "$oid": "696e34d9e4242d9619419fd5"
+      }
+    }
+  ],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "696e2bf6e4242d9619419711"
+  },
+  "title": "Workshop: Introducere în AI",
+  "category": "Cultural",
+  "date": "2026-12-02",
+  "location": "Laborator 302, Corp C, Etaj 3",
+  "description": "Învață cum să construiești primul tău model de inteligență artificială folosind Python.",
+  "facultate": "Informatică",
+  "tip": "Cultural",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Andrei Moldovan",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e3372e4242d9619419b6c"
+      }
+    },
+    {
+      "studentNume": "Alexandru Lupu",
+      "rating": 2,
+      "_id": {
+        "$oid": "696e3465e4242d9619419e3c"
+      }
+    },
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e34dde4242d9619419fe7"
+      }
+    }
+  ],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "696e2c22e4242d961941972b"
+  },
+  "title": "Proces Simulat: Drept Civil",
+  "category": "Social",
+  "date": "2026-03-04",
+  "location": "Aula Magna",
+  "description": "Studenții pot experimenta rolul unui avocat sau judecător într-un caz real de dispută de proprietate.",
+  "facultate": "Drept",
+  "tip": "Social",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Elena Ionescu",
+      "rating": 3,
+      "_id": {
+        "$oid": "696e33c4e4242d9619419c45"
+      }
+    },
+    {
+      "studentNume": "Daria Cozma",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e3431e4242d9619419d77"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "696e2c64e4242d9619419747"
+  },
+  "title": "Seară de Teatru Studențesc",
+  "category": "Cultural",
+  "date": "2026-06-22",
+  "location": "Auditorium-ul Joseph Schmidt",
+  "description": "O piesă de teatru pusă în scenă de trupa universității, urmată de o sesiune de întrebări.",
+  "facultate": "Economie",
+  "tip": "Cultural",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Alexandru Lupu",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e3451e4242d9619419dca"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "696e2c9ae4242d9619419799"
+  },
+  "title": "Business Strategy Summit",
+  "category": "Cultural",
+  "date": "2026-01-15",
+  "location": "Sala de conferințe Corp H",
+  "description": "Antreprenori locali vin să discute despre cum să începi un start-up în România în 2026.",
+  "facultate": "Economie",
+  "tip": "Cultural",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Alexandru Lupu",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e3459e4242d9619419df4"
+      }
+    },
+    {
+      "studentNume": "Ioana Avram",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e347ae4242d9619419e7d"
+      }
+    },
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 4,
+      "_id": {
+        "$oid": "696e34e1e4242d9619419ff9"
+      }
+    }
+  ],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "696e2cc1e4242d96194197ca"
+  },
+  "title": "Expediție: Biodiversitatea Bucovinei",
+  "category": "Academic",
+  "date": "2026-06-17",
+  "location": "Parcul Dendrologic / Munții Rarău",
+  "description": "O ieșire pe teren pentru a analiza speciile de arbori și fauna locală din rezervațiile naturale.",
+  "facultate": "Informatică",
+  "tip": "Academic",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Andrei Moldovan",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e337ee4242d9619419b8a"
+      }
+    },
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e34e5e4242d961941a00a"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "696e2cf3e4242d96194197ec"
+  },
+  "title": "Noaptea Cercetătorilor: Experimente Chimice",
+  "category": "Cultural",
+  "date": "2026-03-21",
+  "location": "In fata Corpului A",
+  "description": "Demonstrații interactive cu azot lichid, reacții de culoare și magia chimiei aplicate.",
+  "facultate": "Informatică",
+  "tip": "Cultural",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Cristian Rusu",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e348fe4242d9619419ea5"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "696e2d1ee4242d9619419810"
+  },
+  "title": "Curs Prim Ajutor și Intervenție Rapidă",
+  "category": "Social",
+  "date": "2026-04-10",
+  "location": "Corp E, Sala E001",
+  "description": "Învață manevrele de bază pentru salvarea de vieți în situații critice.",
+  "facultate": "Litere",
+  "tip": "Social",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e34ebe4242d961941a01a"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "696e2d73e4242d9619419836"
+  },
+  "title": "Expoziție de Design și Grafică Digitală",
+  "category": "Social",
+  "date": "2026-07-19",
+  "location": "Laborator 306, Corp C, Etaj 3",
+  "description": "Lucrari de licență ale studenților de la specializarea design.",
+  "facultate": "Informatică",
+  "tip": "Social",
+  "status": "approved",
+  "ratings": [
+    {
+      "studentNume": "Bianca Marin",
+      "rating": 2,
+      "_id": {
+        "$oid": "696e34efe4242d961941a02a"
+      }
+    },
+    {
+      "studentNume": "Elena Bodnari",
+      "rating": 5,
+      "_id": {
+        "$oid": "696e3509e4242d961941a071"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "696e2da7e4242d961941985e"
+  },
+  "title": "Karaoke Night & Socializing",
+  "category": "Social",
+  "date": "2026-05-13",
+  "location": "Gradina Englezeasca",
+  "description": "Un eveniment relaxat pentru a cunoaște studenți din alți ani, cu muzică și voie bună.",
+  "facultate": "Drept",
+  "tip": "Social",
+  "status": "approved",
+  "ratings": [],
+  "__v": 0
+}]

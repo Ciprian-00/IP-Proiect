@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "696e3354e4242d9619419adc"
+  },
+  "evenimentId": {
+    "$oid": "696e2babe4242d96194196ec"
+  },
+  "studentNume": "Andrei Moldovan",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:36:20.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e335de4242d9619419b00"
+  },
+  "evenimentId": {
+    "$oid": "696e2bf6e4242d9619419711"
+  },
+  "studentNume": "Andrei Moldovan",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:36:29.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3363e4242d9619419b24"
+  },
+  "evenimentId": {
+    "$oid": "696e2cc1e4242d96194197ca"
+  },
+  "studentNume": "Andrei Moldovan",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:36:35.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3369e4242d9619419b48"
+  },
+  "evenimentId": {
+    "$oid": "696e2d73e4242d9619419836"
+  },
+  "studentNume": "Andrei Moldovan",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:36:41.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e33abe4242d9619419bd5"
+  },
+  "evenimentId": {
+    "$oid": "696e2babe4242d96194196ec"
+  },
+  "studentNume": "Elena Ionescu",
+  "facultate": "Drept și Științe Administrative",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:37:47.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e33afe4242d9619419bf8"
+  },
+  "evenimentId": {
+    "$oid": "696e2c22e4242d961941972b"
+  },
+  "studentNume": "Elena Ionescu",
+  "facultate": "Drept și Științe Administrative",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:37:51.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e33efe4242d9619419c86"
+  },
+  "evenimentId": {
+    "$oid": "696e2c64e4242d9619419747"
+  },
+  "studentNume": "Matei Suceveanu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:38:55.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e33fae4242d9619419ca8"
+  },
+  "evenimentId": {
+    "$oid": "696e2cc1e4242d96194197ca"
+  },
+  "studentNume": "Matei Suceveanu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:39:06.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3401e4242d9619419cc7"
+  },
+  "evenimentId": {
+    "$oid": "696e2cf3e4242d96194197ec"
+  },
+  "studentNume": "Matei Suceveanu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:39:13.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3405e4242d9619419ce6"
+  },
+  "evenimentId": {
+    "$oid": "696e2d73e4242d9619419836"
+  },
+  "studentNume": "Matei Suceveanu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:39:17.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3429e4242d9619419d4b"
+  },
+  "evenimentId": {
+    "$oid": "696e2babe4242d96194196ec"
+  },
+  "studentNume": "Daria Cozma",
+  "facultate": "Drept și Științe Administrative",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:39:53.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3433e4242d9619419d7f"
+  },
+  "evenimentId": {
+    "$oid": "696e2c22e4242d961941972b"
+  },
+  "studentNume": "Daria Cozma",
+  "facultate": "Drept și Științe Administrative",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:40:03.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3452e4242d9619419dd2"
+  },
+  "evenimentId": {
+    "$oid": "696e2c64e4242d9619419747"
+  },
+  "studentNume": "Alexandru Lupu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:40:34.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e345be4242d9619419dfc"
+  },
+  "evenimentId": {
+    "$oid": "696e2c9ae4242d9619419799"
+  },
+  "studentNume": "Alexandru Lupu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:40:43.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e345fe4242d9619419e1c"
+  },
+  "evenimentId": {
+    "$oid": "696e2bf6e4242d9619419711"
+  },
+  "studentNume": "Alexandru Lupu",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:40:47.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e347be4242d9619419e85"
+  },
+  "evenimentId": {
+    "$oid": "696e2c9ae4242d9619419799"
+  },
+  "studentNume": "Ioana Avram",
+  "facultate": "Economie, Administrație și Afaceri",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:41:15.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3490e4242d9619419eb5"
+  },
+  "evenimentId": {
+    "$oid": "696e2cf3e4242d96194197ec"
+  },
+  "studentNume": "Cristian Rusu",
+  "facultate": "Drept și Științe Administrative",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:41:36.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34a9e4242d9619419ed5"
+  },
+  "evenimentId": {
+    "$oid": "696e2babe4242d96194196ec"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:01.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34ade4242d9619419ef4"
+  },
+  "evenimentId": {
+    "$oid": "696e2bf6e4242d9619419711"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:05.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34b1e4242d9619419f13"
+  },
+  "evenimentId": {
+    "$oid": "696e2c22e4242d961941972b"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:09.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34b5e4242d9619419f32"
+  },
+  "evenimentId": {
+    "$oid": "696e2c64e4242d9619419747"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:13.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34bee4242d9619419f54"
+  },
+  "evenimentId": {
+    "$oid": "696e2c9ae4242d9619419799"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:22.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34c4e4242d9619419f73"
+  },
+  "evenimentId": {
+    "$oid": "696e2cc1e4242d96194197ca"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:28.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34c8e4242d9619419f92"
+  },
+  "evenimentId": {
+    "$oid": "696e2d1ee4242d9619419810"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:32.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34d5e4242d9619419fb4"
+  },
+  "evenimentId": {
+    "$oid": "696e2d73e4242d9619419836"
+  },
+  "studentNume": "Bianca Marin",
+  "facultate": "Inginerie Electrică și Știința Calculatoarelor",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:42:45.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3503e4242d961941a051"
+  },
+  "evenimentId": {
+    "$oid": "696e2d73e4242d9619419836"
+  },
+  "studentNume": "Elena Bodnari",
+  "facultate": "Litere și Științe ale Comunicării",
+  "dataInscriere": {
+    "$date": "2026-01-19T13:43:31.414Z"
+  },
+  "__v": 0
+}]

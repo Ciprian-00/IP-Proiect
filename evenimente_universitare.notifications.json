@@ -1,0 +1,741 @@
+[{
+  "_id": {
+    "$oid": "696e18250d1e2e1eb95d4a89"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Concurs de mancare\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:21.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e18270d1e2e1eb95d4a94"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:23.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e18310d1e2e1eb95d4ab4"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "⭐ Feedback salvat (Nota 3) pentru \"Hackathon Studențesc\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:33.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e18330d1e2e1eb95d4abf"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:35.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e18390d1e2e1eb95d4ae6"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "⚠️ Ai oferit deja feedback pentru \"Hackathon Studențesc\".",
+  "tip": "error",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:41.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e183b0d1e2e1eb95d4ae9"
+  },
+  "studentNume": "Andreea",
+  "mesaj": "⚠️ Ești deja înscris la acest eveniment.",
+  "tip": "error",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T11:40:43.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2babe4242d96194196ee"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"USV Sports Day\"",
+  "tip": "info",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:03:39.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2bafe4242d9619419705"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"USV Sports Day\" a fost aprobat!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:03:43.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2bf6e4242d9619419713"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Workshop: Introducere în AI\"",
+  "tip": "info",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:04:54.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c22e4242d961941972d"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Proces Simulat: Drept Civil\"",
+  "tip": "info",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:05:38.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c64e4242d9619419749"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Seară de Teatru Studențesc\"",
+  "tip": "info",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:06:44.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c68e4242d9619419766"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Seară de Teatru Studențesc\" a fost aprobat!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:06:48.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c6be4242d9619419776"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Proces Simulat: Drept Civil\" a fost aprobat!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:06:51.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c6de4242d9619419786"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Workshop: Introducere în AI\" a fost aprobat!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:06:53.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c9ae4242d961941979b"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Business Strategy Summit\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:07:38.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2c9ee4242d96194197ba"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Business Strategy Summit\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:07:42.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2cc1e4242d96194197cc"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Expediție: Biodiversitatea Bucovinei\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:08:17.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2cf3e4242d96194197ee"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Noaptea Cercetătorilor: Experimente Chimice\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:09:07.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2d1ee4242d9619419812"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Curs Prim Ajutor și Intervenție Rapidă\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:09:50.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2d73e4242d9619419838"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Expoziție de Design și Grafică Digitală\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:11:15.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2da7e4242d9619419860"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "🆕 Eveniment nou de aprobat: \"Karaoke Night & Socializing\"",
+  "tip": "info",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:07.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2dade4242d9619419889"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Expediție: Biodiversitatea Bucovinei\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:13.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2dafe4242d961941989f"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Noaptea Cercetătorilor: Experimente Chimice\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:15.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2db2e4242d96194198b5"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Curs Prim Ajutor și Intervenție Rapidă\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:18.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2db5e4242d96194198cb"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Expoziție de Design și Grafică Digitală\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:21.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e2db8e4242d96194198e1"
+  },
+  "studentNume": "Sistem",
+  "mesaj": "✅ \"Karaoke Night & Socializing\" a fost aprobat!",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:12:24.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3354e4242d9619419ade"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:20.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e335de4242d9619419b02"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:29.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3363e4242d9619419b26"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:35.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3369e4242d9619419b4a"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:41.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3372e4242d9619419b6e"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "⭐ Feedback salvat (Nota 4) pentru \"Workshop: Introducere în AI\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:50.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3377e4242d9619419b77"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "⚠️ Ai oferit deja feedback pentru \"Workshop: Introducere în AI\".",
+  "tip": "error",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:36:55.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e337ee4242d9619419b8c"
+  },
+  "studentNume": "Andrei Moldovan",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Expediție: Biodiversitatea Bucovinei\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:37:02.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e345fe4242d9619419e1e"
+  },
+  "studentNume": "Alexandru Lupu",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:40:47.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3465e4242d9619419e3e"
+  },
+  "studentNume": "Alexandru Lupu",
+  "mesaj": "⭐ Feedback salvat (Nota 2) pentru \"Workshop: Introducere în AI\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:40:53.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e347ae4242d9619419e7f"
+  },
+  "studentNume": "Ioana Avram",
+  "mesaj": "⭐ Feedback salvat (Nota 4) pentru \"Business Strategy Summit\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:41:14.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e347be4242d9619419e87"
+  },
+  "studentNume": "Ioana Avram",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:41:15.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e348fe4242d9619419ea7"
+  },
+  "studentNume": "Cristian Rusu",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Noaptea Cercetătorilor: Experimente Chimice\".",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:41:35.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3490e4242d9619419eb7"
+  },
+  "studentNume": "Cristian Rusu",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:41:36.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34a9e4242d9619419ed7"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:01.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34ade4242d9619419ef6"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:05.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34b1e4242d9619419f15"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:09.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34b5e4242d9619419f34"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:13.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34bae4242d9619419f51"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⚠️ Ești deja înscris la acest eveniment.",
+  "tip": "error",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:18.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34bee4242d9619419f56"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:22.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34c4e4242d9619419f75"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:28.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34c8e4242d9619419f94"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:32.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34cfe4242d9619419fb1"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⚠️ Ești deja înscris la acest eveniment.",
+  "tip": "error",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:39.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34d5e4242d9619419fb6"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:42:45.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34d9e4242d9619419fd7"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 3) pentru \"USV Sports Day\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:42:49.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34dde4242d9619419fe9"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 4) pentru \"Workshop: Introducere în AI\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:42:53.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34e1e4242d9619419ffb"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 4) pentru \"Business Strategy Summit\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:42:57.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34e5e4242d961941a00c"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Expediție: Biodiversitatea Bucovinei\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:43:01.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34ebe4242d961941a01c"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Curs Prim Ajutor și Intervenție Rapidă\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:43:07.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e34efe4242d961941a02c"
+  },
+  "studentNume": "Bianca Marin",
+  "mesaj": "⭐ Feedback salvat (Nota 2) pentru \"Expoziție de Design și Grafică Digitală\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:43:11.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3503e4242d961941a053"
+  },
+  "studentNume": "Elena Bodnari",
+  "mesaj": "✅ Te-ai înscris cu succes!",
+  "tip": "success",
+  "citit": true,
+  "data": {
+    "$date": "2026-01-19T13:43:31.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e3509e4242d961941a073"
+  },
+  "studentNume": "Elena Bodnari",
+  "mesaj": "⭐ Feedback salvat (Nota 5) pentru \"Expoziție de Design și Grafică Digitală\".",
+  "tip": "success",
+  "citit": false,
+  "data": {
+    "$date": "2026-01-19T13:43:37.201Z"
+  },
+  "__v": 0
+}]
