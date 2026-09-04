@@ -6,7 +6,7 @@ evenimentelor universitare
 
 Realizat de echipa: ACAD
 Șef de echipă și backend: Nacu Adrian
-Frontend: Ciobanu Cristian
+Frontend: Ciobanu Ciprian
 UI/UX: Toma Andrei
 Tester: Davidoaia Denis
 
